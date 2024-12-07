@@ -1,0 +1,149 @@
+
+
+  
+html {
+
+  font-family: "agdasima" sans-serif;
+  
+  font-size: 1.2em;
+  
+  background-image: url(../img/bg.img-emo2.jpg);
+  
+  background-attachment: fixed;
+  
+  background-size: 30%;
+
+
+  
+  background-color:
+
+  
+
+  }
+  
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: row;
+    max-height: 100vh;
+  }
+  .cards img {
+    margin: 10px;
+    border: 3px solid #000;
+    box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.3); 
+    max-width: 23vw;
+  }
+
+  .merch {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction:column;
+    max-height: 100vh;
+  }
+  .merch img {
+    margin: 10px;
+    border: 3px solid #000;
+    box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.3); 
+    max-width: 20vw;
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: left;
+    font-family: arial;
+  }
+  
+  .price {
+    color: rgb(128, 128, 128);
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: rgb(144, 144, 144);
+    background-color: #4b0f0f;
+    text-align: left;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+
+  
+  nav ol li {
+    display: inline-block;
+    
+    
+    }
+    
+    
+    
+    nav ol li a {
+        color: rgb(91, 93, 116);
+        text-decoration: none;
+        font-size: 2em;
+    }
+    
+    /* Below is a pseudo class which affects the element in a particular state in this case */
+    
+    nav ol li a:hover {
+    color: rgb(85, 59, 59);
+    
+    
+    }
+
+    body {
+    
+      margin: 0;
+      
+      color: rgb(225, 225, 225)
+      }
+      
+      
+      
+      h1 {
+      
+      color: rgb(170, 17, 17);
+      font-family: "UnifrakturMaguntia", serif;
+      font-size: 100px
+      }
+      
+      
+      }
+      
+      
+      
+      h2 {
+      
+      color:rgb(225, 225, 225)
+    }
+      
+      h3 {
+        color: rgb(137, 41, 41);
+        font-family: "UnifrakturMaguntia", serif;
+        font-size: 50px;
+      }
+      
+      
+      
+      p {
+      color: rgb(225, 225, 225)
+    }
+      
+    h4 {
+      font-family: "Teko", sans-serif;
+      color: #d22323;
+
+    }
+
+   
